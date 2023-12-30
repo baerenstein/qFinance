@@ -1,4 +1,3 @@
 ## Introduction ##
 Hi there!
-This repository contains quantitative finance research and projects.
-Files and notebooks are well documented for easy understanding.
+This repository contains quantitative finance research and projects, in form of scripts as well as notebooks with different examples.
